@@ -33,7 +33,7 @@ b.	Demand is high in Summer, winter, Sept, Weather with Mist Broken and Light Sn
 
 c.	Its been observed that the spring season has negative coefficients and negatively correlated. So marketing team can focus on it in order to improve demand of bikes  
 
-d.	We can see demand for bikes was more in 2019 than 2018, so just focus as there is increase in 2019 and might be facing dips in their revenues due to the ongoing Corona pandemic and by the time it reduces the things will be better
+d.	We can see demand for bikes was more in 2019 than 2018 
 
 
 
